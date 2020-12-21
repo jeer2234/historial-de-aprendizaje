@@ -138,7 +138,7 @@ LOGIN_URL = 'users:login'
 
 
 # Heroku settings.
-import dj_database_url
+
 
 
 django_heroku.settings(locals())
